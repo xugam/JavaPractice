@@ -1,0 +1,14 @@
+import java.io.IOException;
+import java.io.FileWriter;
+class Filewriter1{
+    public static void main(String args[])
+ {
+   try{
+    Filewriter obj1=new FileWriter("somu.txt");
+    Writer.Write(
+      "hello i am samikshya sapkota and he is sugam prasai");
+      writer.close();
+      System.out.println("writing in file is sucessfull now"); 
+ }
+}
+}
